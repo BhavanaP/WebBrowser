@@ -10,5 +10,9 @@ RDF/Jena API/SPARQL/Web Browser
 3) SDB - A SPARQL Database for Jena or TDB - RDF Storage and query.
 
 
-Load the Periodic Table Ontology Data into SDB. Protege IDE (use this to open the OWL files and browse the Ontology).
-Build a Java servlets or PhP (http://www.easyrdf.org/) based Web site to browse the Periodic Table Ontology.
+Load the Periodic Table Ontology Data into SDB.
+Built a Java servlets based Web site to browse the Periodic Table Ontology.
+
+
+Reference http://tinman.cs.gsu.edu/~raj/8711/sp15/p4/
+
