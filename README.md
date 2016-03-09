@@ -4,7 +4,9 @@ Developed a Java servlets based Web site to browse the Periodic Table Ontology. 
 RDF/Jena API/SPARQL/Web Browser
 
 1) This project introduces to Jena API (a Java API for RDF/OWL Ontologies) and SDB/TDB RDF Storage Engine.
+
 2) Jena API.
+
 3) SDB - A SPARQL Database for Jena or TDB - RDF Storage and query.
 
 
